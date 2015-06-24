@@ -13,7 +13,7 @@ import org.json.simple.parser.JSONParser;
  *
  */
 public class App {
-    public static final String JSON_FILE = "C:\\Home\\json\\Liechtenstein.json";
+    public static final String JSON_FILE = "<JSON LOCATION>";
 
     public static void main(String[] args) throws Exception {
 
