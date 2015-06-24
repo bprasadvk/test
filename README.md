@@ -1,0 +1,3 @@
+# test
+
+some experiment to read a json file and create a POJO out of it...
